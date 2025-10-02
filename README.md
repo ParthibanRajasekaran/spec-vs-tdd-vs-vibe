@@ -201,5 +201,5 @@ MIT
 
 ## Credits
 
-Inspired by the blog post "Coding by Vibe, by Tests, or by Spec — Which Hat Are You Wearing?"
+Inspired by the blog post "Coding by Vibe, by Tests, or by Spec, Which Hat Are You Wearing?"
 
